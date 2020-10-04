@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi
 
 <!--
 **that-sleepy-someone/that-sleepy-someone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
